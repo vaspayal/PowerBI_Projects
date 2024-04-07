@@ -18,3 +18,5 @@ This dashboard facilitates a better understanding of the 2021–2022 sales figur
 - Step 10 : The line and clustered column chart was created to show salesperson vs Margin and total revenue. 
 - Step 11 : 3 donut charts were added along with 2 pie charts.
 - Step 12 :  The clustered column chart contains Date( month and year) on x axis and margin on y axis.
+
+![image](https://github.com/vaspayal/PowerBI_Projects/assets/69590638/7a1680c7-c792-4790-9b18-e06a1741ced9)
